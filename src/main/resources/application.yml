@@ -1,0 +1,9 @@
+management:
+  security:
+    enabled: false
+
+challenge:
+  solr:
+    protocol: ${SOLR_PROTOCOL:http}
+    host: ${SOLR_HOST:localhost}
+    port: ${SOLR_PORT:8983}
