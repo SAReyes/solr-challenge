@@ -20,7 +20,6 @@ import java.util.Optional;
 @RequestMapping("/product")
 public class ProductController {
 
-
     private final ProductService productService;
 
     @Autowired
@@ -40,7 +39,7 @@ public class ProductController {
         product.setName(request.getName());
         product.setDescription(request.getDescription());
 
-        Optional<Product> result = productService.create(product);
+        Optional<Product> result = productService.save(product);
 
         if (result.isPresent()) {
             CreateProductResponse response = new CreateProductResponse();
@@ -50,7 +49,7 @@ public class ProductController {
 
             return response;
         } else {
-            throw new ProductRuntimeException("Could not create the product" + id);
+            throw new ProductRuntimeException("Could not save the product" + id);
         }
     }
 }

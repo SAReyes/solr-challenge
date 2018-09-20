@@ -14,7 +14,7 @@ public class DefaultProductService implements ProductService {
     }
 
     @Override
-    public Optional<Product> create(Product product) {
+    public Optional<Product> save(Product product) {
         Product response = repository.save(product);
 
         return Optional.ofNullable(response);

@@ -2,8 +2,15 @@ management:
   security:
     enabled: false
 
+spring:
+  data:
+    solr:
+      host: ${SOLR_PROTOCOL:http}://${SOLR_HOST:localhost}:${SOLR_PORT:8983}/solr
+
+
 challenge:
   solr:
     protocol: ${SOLR_PROTOCOL:http}
     host: ${SOLR_HOST:localhost}
     port: ${SOLR_PORT:8983}
+    seed-resource: /products.json

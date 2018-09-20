@@ -1,0 +1,1349 @@
+[
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DH1406",
+    "name": "adidas Z.N.E. Parley Primeknit Pants",
+    "model_number": "ELD86",
+    "description": "Slip on these pants after the game and relax in the afterglow of victory. Built with a bit of stretch, the cosy pants have a seamless design that feels smooth against your skin. They're made using yarn spun from plastic that's reclaimed from the shore before it reaches our oceans.\n\nGood for the oceans\nThis product is created with yarn made in collaboration with Parley for the Oceans: Some of the yarn features Parley Ocean Plastic\u2122, which is made from recycled waste intercepted from beaches and coastal communities before it reaches the ocean\n\nBreathable comfort\nBreathable, flexible adidas Primeknit for a seamless comfort and fit\n\nConvenient details\nZip pockets give you a place for your phone and keys",
+    "price": 84.95,
+    "colors": [
+      "Black"
+    ],
+    "category": "Clothing",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DB2210",
+    "name": "Nemeziz Tango 18.3 Turf Boots",
+    "model_number": "FBP27",
+    "description": "Crafted for the creator, these turf football boots have a unique bandage construction inspired by sports taping. Their elasticised bindings stretch in one direction, but lock out in the other. The result is a boot that delivers compressive support and complete flexibility to make game-changing moves.",
+    "price": 79.95,
+    "colors": [
+      "Football Blue",
+      "Ftwr White",
+      "Football Blue"
+    ],
+    "category": "Shoes",
+    "search_color": "Blue"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "AC7830",
+    "name": "Terrex Swift R2 GTX Shoes",
+    "model_number": "EFU54",
+    "description": "These trail running shoes combine a responsive midsole with an outdoor-specific frame to provide energy return and stability on mountain runs. A breathable, waterproof membrane keeps feet dry through wet weather. The Continental\u2122 Rubber outsole, designed for a smooth running transition, gives you extraordinary grip.\n\nEnergised cushioning\nBoost is our most responsive cushioning ever: The more energy you give, the more you get\n\nMedial and lateral support\nPro-Moderator medial and lateral support puts extra stability in the midsole",
+    "price": 119.95,
+    "colors": [
+      "Blue Beauty",
+      "Blue Beauty",
+      "Bright Blue"
+    ],
+    "category": "Shoes",
+    "search_color": "Blue"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DH4428",
+    "name": "Oversize Trefoil Tee",
+    "model_number": "ELW28",
+    "description": "The Trefoil has been making its mark since 1972. This t-shirt celebrates its legacy in soft cotton jersey and a modern, boxy shape. \n\nThe Adicolor collection\nInspired by adidas heritage, Adicolor is authentic but modern\n\nIconic details\nA bold Trefoil logo on the front shows adidas pride",
+    "price": 29.95,
+    "colors": [
+      "White",
+      "Blush Green"
+    ],
+    "category": "Clothing",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DH2279",
+    "name": "NMD 7/8 Pants",
+    "model_number": "FJE73",
+    "description": "Progressive, pioneering, premium. Made of soft cotton knit, these pants have a clean, minimalist look.",
+    "price": 84.95,
+    "colors": [
+      "Black"
+    ],
+    "category": "Clothing",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "BQ4537",
+    "name": "Belgium Away Jersey",
+    "model_number": "DSI39",
+    "description": "This junior boys' football jersey is styled after the away shirt of Belgium's multi-talented national team. Reflecting the colours of the Belgian flag, this sweat-wicking shirt has a woven badge on its chest.\n\nadidas is dedicated to creating products in ways that minimise their environmental impact. This jersey is made with recycled polyester to save resources and decrease emissions.",
+    "price": 59.95,
+    "colors": [
+      "Yellow",
+      "Black",
+      "Vivid Red"
+    ],
+    "category": "Clothing",
+    "search_color": "Yellow"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DH4313",
+    "name": "Classic Backpack Medium",
+    "model_number": "EKF59",
+    "description": "Fun, boxy and bright, this medium-size backpack shows off its adidas heritage with style. Made of nylon plain weave with a durable TPE backing, it has a main zip compartment with an inner divider plus an extra zip pocket in front.",
+    "price": 34.95,
+    "colors": [
+      "Clear Mint"
+    ],
+    "category": "Accessories",
+    "search_color": "Turquoise"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DH5209",
+    "name": "EQT Curve Block Tee",
+    "model_number": "FJK71",
+    "description": "With a technical design fine-tuned for different runner types, the adidas Equipment series redefined running gear in the '90s. This doubleknit t-shirt celebrates the Equipment legacy with '90s-influenced style for today's streets.",
+    "price": 42.95,
+    "colors": [
+      "Black"
+    ],
+    "category": "Clothing",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DB1996",
+    "name": "Predator 18.2 Firm Ground Boots",
+    "model_number": "FBW69",
+    "description": "Reborn to rule the pitch, these firm ground football boots strap you in for all-out domination. The supportive mesh upper imitates your heel shape for secure lockdown, while a stretchy collar delivers a sock-like fit for ankle stability. A grippy textured coating helps keep the ball under your spell and the match under your control.",
+    "price": 129.95,
+    "colors": [
+      "Core Black",
+      "Core Black",
+      "Ftwr White"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "4002781_M",
+    "name": "mi Tubular Shadow",
+    "model_number": "4002781_M",
+    "description": null,
+    "price": 104.95,
+    "colors": [
+      "White"
+    ],
+    "category": "Shoes",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DH5832",
+    "name": "Trefoil Warm-Up Sweatshirt",
+    "model_number": "EVD82",
+    "description": "The bold archival colours of a 1983 adidas collection inspired the shades for this sweatshirt. It celebrates the Trefoil in slightly brushed French terry.\n\nThe Adicolor collection\nInspired by adidas heritage, Adicolor is authentic but modern\n\nIconic details\nTrefoil logo graphic shows off adidas pride",
+    "price": 49.95,
+    "colors": [
+      "Craft Orange"
+    ],
+    "category": "Clothing",
+    "search_color": "Orange"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DH4936",
+    "name": "Kaval Sweat Pants",
+    "model_number": "FJF51",
+    "description": "The Kaval collection is the new uniform for the street. These pants are made of thick, heavyweight cotton French terry. The fabric feels smooth on the outside, with a soft brushed surface on the inside.\n\nPremium cotton\nSoft brushed-back French terry fabric is made from premium cotton\n\nMove with ease\nDesigned to support comfort and movement",
+    "price": 64.95,
+    "colors": [
+      "Black"
+    ],
+    "category": "Clothing",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DH2945",
+    "name": "Cutout Sweater",
+    "model_number": "FJZ43",
+    "description": "Shoulder cutouts give a sporty style a feminine touch. This sweatshirt is built with smooth doubleknit fabric for a heritage look and comfortable feel. Contrast 3-Stripes down the arms gives this sweater an authentic look.",
+    "price": 49.95,
+    "colors": [
+      "Raw Grey"
+    ],
+    "category": "Clothing",
+    "search_color": "Blue"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "D96635",
+    "name": "NMD_R1 Shoes",
+    "model_number": "BSZ68",
+    "description": "Streamlined and modern, these NMD shoes combine '80s racing heritage with style cues taken from outdoor trail gear. The foot-hugging knit upper rides on a responsive cushioned midsole. ",
+    "price": 109.95,
+    "colors": [
+      "Ftwr White",
+      "Ftwr White",
+      "Gum 3"
+    ],
+    "category": "Shoes",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "D96742",
+    "name": "NMD_CS2 Primeknit Shoes",
+    "model_number": "CES79",
+    "description": "Inspired by the pioneering spirit of running designs from the mid-'80s, the NMD series celebrates a time when wearable technology was exciting and new. These shoes translate the retro-tech style for today's streets with a sleek slip-on design and embroidered details. The sock-like knit upper hugs the foot for a snug, supportive fit. Responsive cushioning adds all-day comfort.",
+    "price": 149.95,
+    "colors": [
+      "Grey Four",
+      "Grey Five",
+      "Gum4"
+    ],
+    "category": "Shoes",
+    "search_color": "Grey"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CQ2412",
+    "name": "NMD_R1 Shoes",
+    "model_number": "BSZ68",
+    "description": "Progressive, premium, pioneering. NMD blends pure adidas heritage with modern materials to create futuristic style that resonates on the streets. A sleek mesh upper combines with a responsive Boost midsole. Moulded plugs at the heel and forefoot add a technical, structured look.",
+    "price": 109.95,
+    "colors": [
+      "Brown",
+      "Trace Grey Metalic",
+      "Trace Grey Metalic",
+      "Ftwr White"
+    ],
+    "category": "Shoes",
+    "search_color": "Brown"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "D95899",
+    "name": "Tango Layered Hoodie",
+    "model_number": "FJV38",
+    "description": "This Tango hoodie offers a layered look. It combines a boxy outer layer with sleek contrast sleeves. It's made in French terry for a soft, comfortable feel.",
+    "price": 59.95,
+    "colors": [
+      "Medium Grey Heather"
+    ],
+    "category": "Clothing",
+    "search_color": "Grey"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "AH2319",
+    "name": "Pureboost Go Shoes",
+    "model_number": "AQO59",
+    "description": "Built for city running, these shoes are made with a light, flexible knit upper that adapts to your foot's natural movement. A wider forefoot and reinforced heel give you stability when taking curbs and corners. Responsive cushioning and a flexible outsole deliver a smooth and comfortable ride. ",
+    "price": 99.95,
+    "colors": [
+      "Core Black",
+      "Grey Five",
+      "Grey Four"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CW1275",
+    "name": "SST Track Pants",
+    "model_number": "EMX19",
+    "description": "The SST track suit was designed in 1979 for tennis training. It quickly became an iconic adidas street style. These track pants stay true to the original design with a slim fit and tapered legs. They're made in the original sporty polyester fabric that's smooth inside and out and just slightly stretchy.  \n\nThe Adicolor collection\nInspired by adidas heritage, Adicolor is authentic but modern\n\nIconic details\nSignature 3-Stripes and a Trefoil logo show off adidas pride",
+    "price": 59.95,
+    "colors": [
+      "Black"
+    ],
+    "category": "Clothing",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "BB6277",
+    "name": "Pureboost Shoes",
+    "model_number": "EFE68",
+    "description": "With a sock-like fit and energised cushioning, these shoes are ready for city running. The light and airy knit upper offers a natural feel against your foot, while a responsive midsole and flexible outsole deliver a smooth ride.",
+    "price": 119.95,
+    "colors": [
+      "Ftwr White",
+      "Grey One",
+      "Crystal White"
+    ],
+    "category": "Shoes",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DH5789",
+    "name": "BB Track Jacket",
+    "model_number": "FJD00",
+    "description": "adidas raids the archives to bring iconic looks to modern streets. This track jacket has a heritage design, modernised in soft velour. \n\nThe Adicolor collection\nInspired by adidas heritage, Adicolor is authentic but modern\n\nIconic details\nSignature 3-Stripes and a Trefoil logo show off adidas pride",
+    "price": 74.95,
+    "colors": [
+      "Maroon"
+    ],
+    "category": "Clothing",
+    "search_color": "Red"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "B37620",
+    "name": "NMD_R1 Shoes",
+    "model_number": "BSZ68",
+    "description": "Inspired by the pioneering spirit of running designs from the mid-'80s, the NMD series celebrates a time when wearable technology was exciting and new. These shoes translate the retro-tech style for today's streets with a modern knit upper. A handy clip for your keys adds a utilitarian detail.",
+    "price": 109.95,
+    "colors": [
+      "Base Green",
+      "Night Cargo",
+      "Solar Orange"
+    ],
+    "category": "Shoes",
+    "search_color": "Green"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DB2285",
+    "name": "X 18+ Firm Ground Boots",
+    "model_number": "FBX33",
+    "description": "Sculpted for speed, these firm ground football boots are stripped down to the essentials. A low-cut collar, moulded heel and skin-tight fit lock your foot in, eliminating the need for laces. The minimal upper is coated in Skeletalweave, a grid of fine yarns for a direct touch. The outsole is perforated to cut weight, leaving you free to fly.",
+    "price": 119.95,
+    "colors": [
+      "Football Blue",
+      "Solar Yellow",
+      "Core Black"
+    ],
+    "category": "Shoes",
+    "search_color": "Blue"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "AJ5904",
+    "name": "Milano 16 Socks 1 Pair",
+    "model_number": "LOX40",
+    "description": "In football, every part of your gear is crucial, right down to the socks on your feet. Make a statement with these men's knee socks, featuring strategic cushioning and breathable mesh inserts.",
+    "price": 6.95,
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "category": "Accessories",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "B37722",
+    "name": "Tubular Shadow Primeknit Shoes",
+    "model_number": "AQU58",
+    "description": "When the Tubular series first dropped in the '90s, it was advanced for its time. These shoes take the heritage style in an edgy direction with a streamlined silhouette and bold details. Made with an ultra-lightweight, flexible adidas Primeknit, they have an innovative wraparound tongue construction for a snug and comfortable fit.",
+    "price": 99.95,
+    "colors": [
+      "Grey"
+    ],
+    "category": "Shoes",
+    "search_color": "Grey"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "D96743",
+    "name": "NMD_CS2 Primeknit Shoes",
+    "model_number": "CES79",
+    "description": "Inspired by the pioneering spirit of running designs from the mid-'80s, the NMD series celebrates a time when wearable technology was exciting and new. These shoes translate the retro-tech style for today's streets with a sleek slip-on design and embroidered details. The sock-like knit upper hugs the foot for a snug, supportive fit. Responsive cushioning adds all-day comfort.",
+    "price": 149.95,
+    "colors": [
+      "Ftwr White",
+      "Grey Two",
+      "Core Black"
+    ],
+    "category": "Shoes",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DN2386",
+    "name": "Supernova Shorts",
+    "model_number": "FLR98",
+    "description": "These shorts are designed to help you stay cool on long runs in the heat. They're made of breathable, quick-drying fabric that allows air to circulate. The lightweight shorts are cut to follow the contours of the body for a semi-fitted feel. \n\nKeep cool\nClimacool keeps you cool and dry in warm weather\n\nAll-around reflectivity\n360 degrees of reflectivity helps you be seen\n\nSweat-proof pocket\nKeep personal items close and dry",
+    "price": 34.95,
+    "colors": [
+      "Black"
+    ],
+    "category": "Clothing",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CG4562",
+    "name": "Tubular Shadow Shoes",
+    "model_number": "CDP60",
+    "description": "In the '90s, the Tubular series disrupted running with a futuristic outsole based on car tyres. The Tubular Shadow translates this bold concept for today's streets. These shoes have lightweight knit upper with a fold-over tongue for a snug fit.",
+    "price": 84.95,
+    "colors": [
+      "Black"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "B41792",
+    "name": "Pharrell Williams Tennis Hu Shoes",
+    "model_number": "AQU45",
+    "description": "An adidas Originals design collaboration with Pharrell Williams, these shoes show off sleek court lines and creative flair. They're made in a flexible knit upper that hugs the foot.\n\nDesigned in partnership with Pharrell Williams\nPharrell's sign-off at the heel and on the tongue add signature style\n\nA creative twist\nDetailed with coloured outsole inserts\n\nSupportive knit upper\nThe sock-like construction hugs the foot",
+    "price": 84.95,
+    "colors": [
+      "Ftwr White",
+      "Ftwr White",
+      "Chalk White"
+    ],
+    "category": "Shoes",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DH3912",
+    "name": "Heritage Polo Shirt",
+    "model_number": "FJH62",
+    "description": "Inspired by rugby uniforms, this polo shirt brings durability and a classy collared look to skateboarding. Made from blended jersey fabric, this polo combines distinct colour contrasts with heritage adidas detailing. It features forearm overlays for added durability, split hems and a slight droptail hem for extra coverage.",
+    "price": 54.95,
+    "colors": [
+      "Collegiate Royal",
+      "Core Heather",
+      "Tactile Yellow",
+      "White"
+    ],
+    "category": "Clothing",
+    "search_color": "Blue"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CG4563",
+    "name": "Tubular Shadow Shoes",
+    "model_number": "CDP60",
+    "description": "In the '90s, the Tubular series disrupted running with a futuristic outsole based on car tyres. The Tubular Shadow translates this bold concept for today's streets. These shoes have lightweight knit upper with a fold-over tongue for a snug fit.",
+    "price": 84.95,
+    "colors": [
+      "Footwear White",
+      "Footwear White"
+    ],
+    "category": "Shoes",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CY5520",
+    "name": "Ultra Primeknit Parley Tank Top",
+    "model_number": "EEQ32",
+    "description": "This running tank top is made of seamless knit fabric that's breathable and has an ultra-smooth feel against your skin. The fitted tank has deep armholes and mesh ventilation to help make warm-weather workouts a breeze. ",
+    "price": 59.95,
+    "colors": [
+      "Cloud White",
+      "Grey One"
+    ],
+    "category": "Clothing",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CM7493",
+    "name": "Terrex Swift R2 GTX Shoes",
+    "model_number": "EFU54",
+    "description": "These trail running shoes combine a responsive midsole with an outdoor-specific frame to provide energy return and stability on mountain runs. A breathable, waterproof membrane keeps feet dry through wet weather. The Continental\u2122 Rubber outsole, designed for a smooth running transition, gives you extraordinary grip.\n\nEnergised cushioning\nBoost is our most responsive cushioning ever: The more energy you give, the more you get\n\nMedial and lateral support\nPro-Moderator medial and lateral support puts extra stability in the midsole",
+    "price": 119.95,
+    "colors": [
+      "Grey Five",
+      "Core Black",
+      "Carbon"
+    ],
+    "category": "Shoes",
+    "search_color": "Grey"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DH5841",
+    "name": "Oversize Trefoil Tee",
+    "model_number": "EMX08",
+    "description": "The Trefoil has been making its mark since its 1972 debut. Made of soft cotton jersey with a modern, boxy shape, this t-shirt celebrates its legacy.\n\nThe Adicolor collection\nInspired by adidas heritage, Adicolor is authentic but modern\n\nIconic details \nA Trefoil logo graphic shows off adidas pride",
+    "price": 34.95,
+    "colors": [
+      "Collegiate Burgundy"
+    ],
+    "category": "Clothing",
+    "search_color": "Red"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CZ3992",
+    "name": "Tango Tee",
+    "model_number": "EUV21",
+    "description": "A sport jersey look that comes with oversize attitude. This t-shirt shows off a big Tango logo that's printed to give a smooth, leather-like feel. The tee is made in soft, lightweight fabric.",
+    "price": 24.95,
+    "colors": [
+      "Black"
+    ],
+    "category": "Clothing",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DM1693",
+    "name": "Backpack",
+    "model_number": "FJA76",
+    "description": "With a purposeful design, this backpack combines a streamlined look with a touch of adidas heritage. Built of durable polyurethane foam, this roomy pack has space for everything your day requires, from trainers to your laptop.",
+    "price": 49.95,
+    "colors": [
+      "Black"
+    ],
+    "category": "Accessories",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CZ3977",
+    "name": "Tango Windbreaker",
+    "model_number": "EUV36",
+    "description": "Take shelter from stormy weather in this hooded wind-defeating jacket. It's made in breathable, water-shedding fabric. Soft and lightweight, it has a handy front zip pouch to keep your essentials close.",
+    "price": 62.95,
+    "colors": [
+      "Hi-Res Red"
+    ],
+    "category": "Clothing",
+    "search_color": "Red"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CY5797",
+    "name": "Supernova Long Tights",
+    "model_number": "EVL44",
+    "description": "Run comfortably in the heat in these breathable running tights. They're made of quick-drying fabric, with mesh panels to keep air circulating as you move. Pre-shaped knees give you a natural range of motion, and a waist that's a bit higher in back provides a stay-put fit.\n\nStrategic ventilation\nClimacool keeps you cool and dry in warm weather\n\nAll-around reflectivity\n360 degrees of reflectivity helps you be seen\n\nSweat-proof pocket\nKeep personal items close and dry",
+    "price": 59.95,
+    "colors": [
+      "Black"
+    ],
+    "category": "Clothing",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DB2361",
+    "name": "Nemeziz Messi 18.1 Firm Ground Boots",
+    "model_number": "FBX54",
+    "description": "Crafted for the creator, these firm ground football boots have a unique bandage construction inspired by sports taping. Their elasticised bindings stretch in one direction, but lock out in the other. The result is a boot that delivers compressive support and complete flexibility to make game-changing moves.",
+    "price": 89.95,
+    "colors": [
+      "Solar Green",
+      "Core Black",
+      "Solar Green"
+    ],
+    "category": "Shoes",
+    "search_color": "Green"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "G28183",
+    "name": "Crazy BYW LVL x Pharrell Williams Shoes",
+    "model_number": "DRC01",
+    "description": "Worn by legendary B-ball players, this '90s-era design featured a look so unconventional that it was called Crazy. Its descendant, the Crazy BYW, combines retro style with innovative cushioning. This bold Pharrell Williams version has a flexible, adaptive adidas Primeknit upper. Boost midsole pods give a comfortable, responsive feel. Inside is a Pharrell signature sockliner inspired by the ancient art of reflexology.",
+    "price": 219.95,
+    "colors": [
+      "Chalk Pink",
+      "Ftwr White",
+      "Core Black"
+    ],
+    "category": "Shoes",
+    "search_color": "Pink"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "AH2311",
+    "name": "Pureboost Go Shoes",
+    "model_number": "AQO59",
+    "description": "Built for city running, these shoes are made with a light, flexible knit upper that adapts to your foot's natural movement. A wider forefoot and reinforced heel give you stability when taking curbs and corners. Responsive cushioning and a flexible outsole deliver a smooth and comfortable ride. ",
+    "price": 99.95,
+    "colors": [
+      "Ftwr White",
+      "Grey One",
+      "Grey Two"
+    ],
+    "category": "Shoes",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DB2010",
+    "name": "Predator 18+ Firm Ground",
+    "model_number": "FBW72",
+    "description": "Turn your vision into control and prove your dominance with every precise pass, every minute of the game. With Predator, you leave nothing to chance, you're the master of control. Keep the ball glued to your feet in these football boots, featuring a flexible adidas Primeknit upper and ultra-responsive Boost. Made to dominate on firm ground.",
+    "price": 249.95,
+    "colors": [
+      "Solar Yellow",
+      "Core Black",
+      "Solar Red"
+    ],
+    "category": "Shoes",
+    "search_color": "Yellow"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "D96616",
+    "name": "NMD_R1 Shoes",
+    "model_number": "BSZ68",
+    "description": "Stride out in a bold minimalist style. These NMD shoes bring a modern look to '80s racing heritage. The breathable mesh upper shows off an allover camouflage pattern that gives these streetwise trainers an urban explorer vibe. Boost cushioning offers a springy responsive feel.",
+    "price": 109.95,
+    "colors": [
+      "Core Black",
+      "Grey Four",
+      "Grey Five"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "BB9531",
+    "name": "Pharrell Williams SOLARHU NMD Shoes",
+    "model_number": "BTH27",
+    "description": "Pharrell's journey across the globe continues with SOLARHU. Inspired by the raw spirit and style of East Africa, these shoes have a vibrant adidas Primeknit textile upper with bold wording graphics. They are finished with a bright lug outsole. \n\nHu by Pharrell Williams\nPharrell's Hu collection celebrates the hues of humanity\n\nMinimalist knit\nadidas Primeknit upper wraps the foot in adaptive support and ultralight comfort\n\nDistinctive Boost midsole \nBoost is our most responsive cushioning ever\n\nSignature Pharrell sockliner \nGraphic inspired by the ancient art of reflexology",
+    "price": 219.95,
+    "colors": [
+      "Multicolor"
+    ],
+    "category": "Shoes",
+    "search_color": "Multicolour"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CM8303",
+    "name": "Pureboost Shoes",
+    "model_number": "EFE68",
+    "description": "With a sock-like fit and energised cushioning, these shoes are ready for city running. They have a light and airy knit upper for a natural feel against your foot. A responsive midsole and flexible outsole deliver a smooth ride.",
+    "price": 139.95,
+    "colors": [
+      "Raw Steel",
+      "Lgh Solid Grey",
+      "Clear Mint"
+    ],
+    "category": "Shoes",
+    "search_color": "Blue"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CY1873",
+    "name": "Agravic Trail Running Tights",
+    "model_number": "EUH92",
+    "description": "Stay warm on the trail in these tights. A wind-resistant overlay on the front blocks the wind for added warmth while the back allows your body to ventilate. The pre-shaped knees and built-in stretch ensure a natural range of motion for running, hiking or cross-country skiing. Ankle zips make them easy to pull on and off over shoes.",
+    "price": 64.95,
+    "colors": [
+      "Carbon"
+    ],
+    "category": "Clothing",
+    "search_color": "Grey"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DH5208",
+    "name": "EQT Curve Block Tee",
+    "model_number": "FJK71",
+    "description": "With a technical design fine-tuned for different runner types, the adidas Equipment series redefined running gear in the '90s. This doubleknit t-shirt celebrates the Equipment legacy with '90s-influenced style for today's streets.",
+    "price": 42.95,
+    "colors": [
+      "Collegiate Navy"
+    ],
+    "category": "Clothing",
+    "search_color": "Blue"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "B41793",
+    "name": "Pharrell Williams Tennis Hu Shoes",
+    "model_number": "AQU45",
+    "description": "An adidas Originals design collaboration with Pharrell Williams, these shoes show off sleek court lines and creative flair. They're made in a flexible knit upper that hugs the foot.\n\nDesigned in partnership with Pharrell Williams\nPharrell's sign-off at the heel and on the tongue add signature style\n\nA creative twist\nDetailed with coloured outsole inserts\n\nSupportive knit upper\nThe sock-like construction hugs the foot",
+    "price": 84.95,
+    "colors": [
+      "Ftwr White",
+      "Ftwr White",
+      "Chalk White"
+    ],
+    "category": "Shoes",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "AH2323",
+    "name": "Pureboost Go Shoes",
+    "model_number": "AQO59",
+    "description": "Built for city running, these shoes are made with a light, flexible knit upper that adapts to your foot's natural movement. A wider forefoot and reinforced heel give you stability when taking curbs and corners. Responsive cushioning and a flexible outsole deliver a smooth and comfortable ride. ",
+    "price": 99.95,
+    "colors": [
+      "Core Black",
+      "Core Black",
+      "Scarlet"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DB2109",
+    "name": "Nemeziz 18.3 Firm Ground Boots",
+    "model_number": "FBP15",
+    "description": "Crafted for the creator, these football boots lock you in for match-turning agility. The flexible mesh upper delivers a soft, responsive touch. Underneath, a lightweight outsole provides a stable platform for explosive moves on firm ground.",
+    "price": 79.95,
+    "colors": [
+      "Football Blue",
+      "Ftwr White",
+      "Football Blue"
+    ],
+    "category": "Shoes",
+    "search_color": "Blue"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DJ2134",
+    "name": "Parley Swim Shorts",
+    "model_number": "FAH69",
+    "description": "The yarn in these swim shorts is spun from plastic that's reclaimed before it reaches the ocean. The woven shorts feature a wave-inspired print. An inner mesh brief adds comfort. \n\nGood for the oceans\nThis product is created with yarn made in collaboration with Parley for the Oceans: Some of the yarn features Parley Ocean Plastic\u2122 which is made from recycled waste, intercepted from beaches and coastal communities before it reaches the ocean\n\nSecure fit\nA tie-cord elastic waist gives you a secure fit",
+    "price": 37.95,
+    "colors": [
+      "Legend Ink",
+      "Core Blue"
+    ],
+    "category": "Clothing",
+    "search_color": "Blue"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CW0633",
+    "name": "Classic Backpack",
+    "model_number": "EKF60",
+    "description": "A clean, classic expression of adidas heritage with all the functionality you need. Made of lightweight, woven polyester with contrast piping, this backpack has a roomy main compartment for books and larger items, plus a pocket in front for smaller essentials. An inside divider keeps everything organised.",
+    "price": 42.95,
+    "colors": [
+      "Collegiate Navy"
+    ],
+    "category": "Accessories",
+    "search_color": "Blue"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DT8296",
+    "name": "Gosha FIFA World Cup Official Match Ball",
+    "model_number": "FTR48",
+    "description": "Displaying an eye-catching Gosha Rubchinskiy design, this ball celebrates the Russian designer's homeland hosting the world's ultimate football tournament. It has a thermally bonded, seamless surface providing a predictable trajectory, assured touch and low water uptake. A butyl bladder keeps it inflated and ready for action.",
+    "price": 139.95,
+    "colors": [
+      "Black",
+      "Silver Met."
+    ],
+    "category": "Accessories",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DH5146",
+    "name": "Tennis Tee",
+    "model_number": "FJK60",
+    "description": "In the '90s, adidas Equipment stood for pure performance. This t-shirt blends the best of retro Equipment style with a modern feel. Pinstripe-thin 3-Stripes create a pattern on this relaxed-fitting tee. It's made of breathable piqu\u00e9 fabric.",
+    "price": 42.95,
+    "colors": [
+      "White"
+    ],
+    "category": "Clothing",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CK4151",
+    "name": "AOG001 Sunglasses",
+    "model_number": "NES87",
+    "description": "These sunglasses feature transparent temples that leave the core wire exposed, turning a structural element into a unique statement. Adjustable temple tips and interchangeable nose pads help you get the perfect fit. Trefoil logos on the temple and screw cap give these glasses a touch of adidas Originals style.",
+    "price": 99.95,
+    "colors": [
+      "Trace Khaki",
+      "Trace Khaki",
+      "Mystery Brown"
+    ],
+    "category": "Accessories",
+    "search_color": "Green"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "AC7829",
+    "name": "Terrex Swift R2 GTX Shoes",
+    "model_number": "EFU54",
+    "description": "These trail running shoes combine a responsive midsole with an outdoor-specific frame to provide energy return and stability on mountain runs. A breathable, waterproof membrane keeps feet dry through wet weather. The Continental\u2122 Rubber outsole, designed for a smooth running transition, gives you extraordinary grip.\n\nEnergised cushioning\nBoost is our most responsive cushioning ever: The more energy you give, the more you get\n\nMedial and lateral support\nPro-Moderator medial and lateral support puts extra stability in the midsole",
+    "price": 119.95,
+    "colors": [
+      "Core Black",
+      "Core Black",
+      "Bright Blue"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "BS3693",
+    "name": "Tiro17 Training Pants",
+    "model_number": "MLE51",
+    "description": "Train hard. Stay cool. These men's football training pants help you warm up without overheating. Featuring ventilated climacool\u00ae and mesh inserts for maximum breathability, they keep the air moving while you stay on the pitch. A slim fit promotes easy footwork.",
+    "price": 37.95,
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "category": "Clothing",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "AQ1056",
+    "name": "Pharrell Williams Tennis Hu Shoes",
+    "model_number": "AQU45",
+    "description": "An adidas Originals design collaboration with Pharrell Williams, these shoes show off sleek court lines and creative flair. They're made in a flexible knit upper that hugs the foot.\n\nDesigned in partnership with Pharrell Williams\nPharrell's sign-off at the heel and on the tongue add signature style\n\nA creative twist\nDetailed with coloured outsole inserts\n\nSupportive knit upper\nThe sock-like construction hugs the foot",
+    "price": 84.95,
+    "colors": [
+      "Core Black",
+      "Core Black",
+      "Chalk White"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CZ4005",
+    "name": "Tango Sweat Pants",
+    "model_number": "EUV43",
+    "description": "These Tango sweat pants offer football style that's cut for the street. They're made in heavyweight French terry that has a soft feel. A slim fit keeps the shape lean and streamlined.",
+    "price": 59.95,
+    "colors": [
+      "Medium Grey Heather"
+    ],
+    "category": "Clothing",
+    "search_color": "Grey"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "B41806",
+    "name": "Pharrell Williams Tennis Hu Shoes",
+    "model_number": "AQU45",
+    "description": "An adidas Originals design collaboration with Pharrell Williams, these shoes show off sleek court lines and creative flair. They're made in a flexible knit upper that hugs the foot.\n\nDesigned in partnership with Pharrell Williams\nPharrell's sign-off at the heel and on the tongue add signature style\n\nA creative twist\nDetailed with coloured outsole inserts\n\nSupportive knit upper\nThe sock-like construction hugs the foot",
+    "price": 84.95,
+    "colors": [
+      "Ftwr White",
+      "Ftwr White",
+      "Chalk White"
+    ],
+    "category": "Shoes",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CG1102",
+    "name": "How We Do Long Tights",
+    "model_number": "EER03",
+    "description": "Add air conditioning to every workout in these women's running tights. Built in a fitted cut, the tights feature mesh-like Climacool to battle the heat so you're always cool and dry. Smooth seams provide a second-skin feel, while two pockets store essentials.\n\nadidas is committed to creating products in more sustainable ways. These tights are made with recycled polyester to save resources and decrease emissions.",
+    "price": 59.95,
+    "colors": [
+      "Black"
+    ],
+    "category": "Clothing",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CM7492",
+    "name": "Terrex Swift R2 GTX Shoes",
+    "model_number": "EFU54",
+    "description": "These trail running shoes combine a responsive midsole with an outdoor-specific frame to provide energy return and stability on mountain runs. A breathable, waterproof membrane keeps feet dry through wet weather. The Continental\u2122 Rubber outsole, designed for a smooth running transition, gives you extraordinary grip.\n\nEnergised cushioning\nBoost is our most responsive cushioning ever: The more energy you give, the more you get\n\nMedial and lateral support\nPro-Moderator medial and lateral support puts extra stability in the midsole",
+    "price": 119.95,
+    "colors": [
+      "Core Black",
+      "Core Black",
+      "Core Black"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "BS0526",
+    "name": "Condivo 18 Training Pants",
+    "model_number": "DJU99",
+    "description": "These football pants keep you cool, dry and moving freely while you train. They're made of soft knit, with strategically placed ventilation for cooling. Ribbed details on the calves keep them out of the way of your footwork.\n\nKeep cool\nClimacool keeps you cool and dry in warm weather\n\nConvenient details\nThese pants have ankle zips, so they go on easily over boots",
+    "price": 37.95,
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "category": "Clothing",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "B41794",
+    "name": "Pharrell Williams Tennis Hu Shoes",
+    "model_number": "AQU45",
+    "description": "An adidas Originals design collaboration with Pharrell Williams, these shoes show off sleek court lines and creative flair. They're made in a flexible knit upper that hugs the foot.\n\nDesigned in partnership with Pharrell Williams\nPharrell's sign-off at the heel and on the tongue add signature style\n\nA creative twist\nDetailed with coloured outsole inserts\n\nSupportive knit upper\nThe sock-like construction hugs the foot",
+    "price": 84.95,
+    "colors": [
+      "Ftwr White",
+      "Ftwr White",
+      "Chalk White"
+    ],
+    "category": "Shoes",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DB2108",
+    "name": "Nemeziz 18.3 Firm Ground Boots",
+    "model_number": "FBP15",
+    "description": "Crafted for the creator, these football boots lock you in for match-turning agility. The flexible mesh upper delivers a soft, responsive touch. Underneath, a lightweight outsole provides a stable platform for explosive moves on firm ground.",
+    "price": 79.95,
+    "colors": [
+      "Core Black",
+      "Core Black",
+      "Ftwr White"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CZ0299",
+    "name": "Supernova Reflective Tee",
+    "model_number": "EEQ71",
+    "description": "This running t-shirt features reflective panels on the sides that blend in by day and burst into colour at night. It's made of breathable, quick-dry fabric that moves heat and moisture away from the body. ",
+    "price": 37.95,
+    "colors": [
+      "Cloud White"
+    ],
+    "category": "Clothing",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "AJ5905",
+    "name": "Milano 16 Socks 1 Pair",
+    "model_number": "LOX40",
+    "description": "In football, every part of your gear is crucial, right down to the socks on your feet. Make a statement with these men's knee socks, featuring strategic cushioning and breathable mesh inserts.",
+    "price": 6.95,
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "category": "Accessories",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "BC0248",
+    "name": "Ultraboost Parley Shoes",
+    "model_number": "AQK96",
+    "description": "These running shoes combine comfort and high-performance technology for a best-ever-run feeling. The knit upper features yarn spun from plastic that's reclaimed from the shoreline before it reaches the ocean. Responsive midsole cushioning and a flexible outsole deliver a smooth and energised ride. ",
+    "price": 139.95,
+    "colors": [
+      "Carbon",
+      "Ftwr White",
+      "Blue Spirit"
+    ],
+    "category": "Shoes",
+    "search_color": "Grey"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DH4206",
+    "name": "Track Pants",
+    "model_number": "FJB65",
+    "description": "The playful look of the '90s. Tricolour racing stripes give retro motocross style to these pants. They have a loose, relaxed fit and are made of crepe fabric.",
+    "price": 59.95,
+    "colors": [
+      "Black"
+    ],
+    "category": "Clothing",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "D96744",
+    "name": "NMD_CS2 Primeknit Shoes",
+    "model_number": "CES79",
+    "description": "Inspired by the pioneering spirit of running designs from the mid-'80s, the NMD series celebrates a time when wearable technology was exciting and new. These shoes translate the retro-tech style for today's streets with a sleek slip-on design and embroidered details. The sock-like knit upper hugs the foot for a snug, supportive fit. Responsive cushioning adds all-day comfort.",
+    "price": 149.95,
+    "colors": [
+      "Core Black",
+      "Carbon",
+      "Ftwr White"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "BB9528",
+    "name": "Pharrell Williams SOLARHU NMD Shoes",
+    "model_number": "BTH27",
+    "description": "Pharrell's journey across the globe continues with SOLARHU. Inspired by the raw spirit and style of East Africa, these shoes have a vibrant adidas Primeknit textile upper with bold wording graphics. They are finished with a bright lug outsole. \n\nHu by Pharrell Williams\nPharrell's Hu collection celebrates the hues of humanity\n\nMinimalist knit\nadidas Primeknit upper wraps the foot in adaptive support and ultralight comfort\n\nDistinctive Boost midsole \nBoost is our most responsive cushioning ever\n\nSignature Pharrell sockliner \nGraphic inspired by the ancient art of reflexology",
+    "price": 219.95,
+    "colors": [
+      "Multicolor"
+    ],
+    "category": "Shoes",
+    "search_color": "Multicolour"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CZ5554",
+    "name": "Franchise Supernova Tee",
+    "model_number": "EEQ90",
+    "description": "This running t-shirt helps you stay cool as the miles fly by. It's made of breathable, quick-dry fabric that moves heat and moisture away from the body. A close-to-the-body fit allows for easy movement.\n\nStay cool\nClimacool keeps you cool and dry in warm weather\n\nAll-around reflectivity\n360 degrees of reflectivity helps you be seen\n\nMake a difference\nA portion of sales goes to support cancer awareness charities worldwide",
+    "price": 34.95,
+    "colors": [
+      "Cloud White"
+    ],
+    "category": "Clothing",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "AQ1091",
+    "name": "Tubular Shadow Shoes",
+    "model_number": "CDP60",
+    "description": "When the Tubular series first dropped in the '90s, it was advanced for its time. These shoes take the heritage style in an edgy direction with a streamlined silhouette and bold details. Made with a sock-like upper, they feature an innovative wraparound tongue construction for a snug and comfortable fit.",
+    "price": 84.95,
+    "colors": [
+      "Core Black",
+      "Solar Red",
+      "Mystery Ink"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DH1405",
+    "name": "adidas Z.N.E. Parley Primeknit Hoodie",
+    "model_number": "ELD88",
+    "description": "This hoodie is geared for comfort and warmth. Featuring Parley Ocean Plastic\u2122 yarn, it has a fully knit construction that's soft, seamless and slightly stretchy. Drop shoulders give you easy movement, and a high neck helps block out the chill.",
+    "price": 129.95,
+    "colors": [
+      "Black"
+    ],
+    "category": "Clothing",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "B42199",
+    "name": "NMD_R1 Shoes",
+    "model_number": "BSZ68",
+    "description": "Streamlined and modern, these NMD shoes combine '80s racing heritage with style cues taken from outdoor trail gear. The foot-hugging knit upper rides on a responsive cushioned midsole. ",
+    "price": 109.95,
+    "colors": [
+      "Grey Five",
+      "Grey Five",
+      "Core Black"
+    ],
+    "category": "Shoes",
+    "search_color": "Grey"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "B42200",
+    "name": "NMD_R1 Shoes",
+    "model_number": "BSZ68",
+    "description": "Streamlined and modern, these NMD shoes combine '80s racing heritage with style cues taken from outdoor trail gear. The foot-hugging knit upper rides on a responsive cushioned midsole. ",
+    "price": 109.95,
+    "colors": [
+      "Core Black",
+      "Core Black",
+      "Gum 3"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "BR3509",
+    "name": "Colombia Home Jersey",
+    "model_number": "DTP96",
+    "description": "Created for fans, this jersey keeps you comfortable as you cheer on Colombia. It displays a fresh take on a '90s design turned into a classic by one of the country's most talented squads. Made of soft fabric that channels moisture away from your skin, it has a slightly looser fit than the shirts worn on the pitch.\n\nStay dry\nClimalite wicks sweat to keep you dry in every condition\n\nMade for fans\nA fan jersey is a streetwear version of what players wear on match day and is wider in the shoulders and body",
+    "price": 42.95,
+    "colors": [
+      "Bright Yellow",
+      "Collegiate Navy"
+    ],
+    "category": "Clothing",
+    "search_color": "Yellow"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CQ1742",
+    "name": "Terrex Skychaser GTX Shoes",
+    "model_number": "EFV91",
+    "description": "Get creative with your route in these men's trail running shoes. Pro-Moderator support and speed lacing are built for the path less travelled, and a GORE-TEX\u00ae lining seals out water when your route is wet. No matter your line, Boost energy return turbo charges every stride, while Continental\u2122 Rubber offers extraordinary grip on rock and rough or wet ground.",
+    "price": 159.95,
+    "colors": [
+      "Core Black",
+      "Core Black",
+      "Carbon"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DH5222",
+    "name": "EQT Block Hoodie",
+    "model_number": "FJK78",
+    "description": "When it hit in the '90s, the adidas Equipment line represented the rise of global running culture. This hoodie is an evolution of the authentic look brought up to speed for the streets. Doubleknit fabric gives this pullover a comfortable feel. \n\nSignature Equipment look\nBold retro-inspired colourblocking is modernised for today's streets\n\nRelaxed style\nThe loose silhouette drapes on the body for maximum comfort",
+    "price": 74.95,
+    "colors": [
+      "Noble Green"
+    ],
+    "category": "Clothing",
+    "search_color": "Green"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CW7397",
+    "name": "Tango Jersey",
+    "model_number": "EUV18",
+    "description": "The wavy graphics on this t-shirt are inspired by the bright colours and loud graphics of '90s football gear. It's made in sweat-wicking fabric to keep you dry and comfortable.",
+    "price": 42.95,
+    "colors": [
+      "Hi-Res Red"
+    ],
+    "category": "Clothing",
+    "search_color": "Red"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CF3575",
+    "name": "AdiSocks Knee Socks",
+    "model_number": "DRW46",
+    "description": "Take your game further in these ventilated football socks. Designed to offer a locked-in fit and greater comfort, they have strategically placed mesh ventilation to keep you cool on the pitch.",
+    "price": 11.95,
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "category": "Accessories",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "D96741",
+    "name": "NMD_CS2 Primeknit Shoes",
+    "model_number": "CES79",
+    "description": "Inspired by the pioneering spirit of running designs from the mid-'80s, the NMD series celebrates a time when wearable technology was exciting and new. These shoes translate the retro-tech style for today's streets with a sleek slip-on design and embroidered details. The sock-like knit upper hugs the foot for a snug, supportive fit. Responsive cushioning adds all-day comfort.",
+    "price": 149.95,
+    "colors": [
+      "Trace Blue",
+      "Lgh Solid Grey",
+      "Gum4"
+    ],
+    "category": "Shoes",
+    "search_color": "Blue"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DB2211",
+    "name": "Nemeziz Tango 18.3 Turf Boots",
+    "model_number": "FBP27",
+    "description": "Crafted for the creator, these turf football boots have a unique bandage construction inspired by sports taping. Their elasticised bindings stretch in one direction, but lock out in the other. The result is a boot that delivers compressive support and complete flexibility to make game-changing moves.",
+    "price": 79.95,
+    "colors": [
+      "Core Black",
+      "Core Black",
+      "Grey Five"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "D96617",
+    "name": "NMD_R1 Shoes",
+    "model_number": "BSZ68",
+    "description": "Stride out in a bold minimalist style. These NMD shoes bring a modern look to '80s racing heritage. The breathable mesh upper shows off an allover camouflage pattern that gives these streetwise trainers an urban explorer vibe. Boost cushioning offers a springy responsive feel.",
+    "price": 109.95,
+    "colors": [
+      "Sesame",
+      "Trace Cargo",
+      "Base Green"
+    ],
+    "category": "Shoes",
+    "search_color": "Grey"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "B76079",
+    "name": "NMD_R1 Shoes",
+    "model_number": "BSZ68",
+    "description": "Progressive, premium, pioneering. NMD blends pure adidas heritage with modern materials to create futuristic style that resonates on the streets. A textured, two-tone mesh upper combines with a responsive Boost midsole. Moulded plugs at the heel and forefoot add a technical, structured look.",
+    "price": 109.95,
+    "colors": [
+      "Sesame",
+      "Chalk Pearl",
+      "Ftwr White"
+    ],
+    "category": "Shoes",
+    "search_color": "Grey"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "BB9527",
+    "name": "Pharrell Williams SOLARHU NMD Shoes",
+    "model_number": "BTH27",
+    "description": "Pharrell's journey across the globe continues with SOLARHU. Inspired by the raw spirit and style of East Africa, these shoes have a vibrant adidas Primeknit textile upper with bold wording graphics. They are finished with a bright lug outsole. \n\nHu by Pharrell Williams\nPharrell's Hu collection celebrates the hues of humanity\n\nMinimalist knit\nadidas Primeknit upper wraps the foot in adaptive support and ultralight comfort\n\nDistinctive Boost midsole \nBoost is our most responsive cushioning ever\n\nSignature Pharrell sockliner \nGraphic inspired by the ancient art of reflexology",
+    "price": 219.95,
+    "colors": [
+      "Multicolor"
+    ],
+    "category": "Shoes",
+    "search_color": "Multicolour"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "DB2135",
+    "name": "Predator Tango 18.3 Turf Boots",
+    "model_number": "FBX00",
+    "description": "Reborn to rule the pitch, these turf football boots strap you in for all-out domination. The supportive mesh upper imitates your heel shape for secure lockdown, while a snug collar delivers a sock-like fit for ankle stability. Embossing on the forefoot helps keep the ball under your spell and the match under your control.",
+    "price": 79.95,
+    "colors": [
+      "Core Black",
+      "Ftwr White",
+      "Solar Red"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CY5494",
+    "name": "Ultra Primeknit Parley Tee",
+    "model_number": "EEQ18",
+    "description": "This running t-shirt hugs your torso and is made with breathable fabric. The seamless construction has an ultra-soft and ultra-smooth feel against your skin and minimises chafing. ",
+    "price": 59.95,
+    "colors": [
+      "Cloud White",
+      "Grey Two"
+    ],
+    "category": "Clothing",
+    "search_color": "White"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "AQ0948",
+    "name": "NMD_CS1 Primeknit Shoes",
+    "model_number": "AQT72",
+    "description": "NMD footwear pushes ahead on its progressive path with a fresh fusion of urban and running style. These shoes feature a two-tone allover stripe pattern divided into vertical, horizontal and diagonal sections. They're built with a sock-like knit upper that hugs the foot for a supportive yet flexible feel.",
+    "price": 149.95,
+    "colors": [
+      "Core Black",
+      "Core Blue",
+      "Ftwr White"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "AC7967",
+    "name": "Terrex Swift R2 GTX Shoes",
+    "model_number": "EFU54",
+    "description": "These trail running shoes combine a responsive midsole with an outdoor-specific frame to provide energy return and stability on mountain runs. A breathable, waterproof membrane keeps feet dry through wet weather. The Continental\u2122 Rubber outsole, designed for a smooth running transition, gives you extraordinary grip.\n\nEnergised cushioning\nBoost is our most responsive cushioning ever: The more energy you give, the more you get\n\nMedial and lateral support\nPro-Moderator medial and lateral support puts extra stability in the midsole",
+    "price": 119.95,
+    "colors": [
+      "Core Black",
+      "Hi-Res Red",
+      "Grey Five"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "B37638",
+    "name": "NMD_CS1 Primeknit Shoes",
+    "model_number": "AQT72",
+    "description": "NMD footwear pushes ahead on its progressive path with a fresh fusion of urban and running style. These shoes feature a two-tone allover stripe pattern divided into vertical, horizontal and diagonal sections. They're built with a sock-like knit upper that hugs the foot for a supportive yet flexible feel.",
+    "price": 149.95,
+    "colors": [
+      "Night Cargo",
+      "Base Green",
+      "Ftwr White"
+    ],
+    "category": "Shoes",
+    "search_color": "Green"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "B37593",
+    "name": "Tubular Shadow Shoes",
+    "model_number": "CDP60",
+    "description": "When the Tubular series first dropped in the '90s, it was advanced for its time. These shoes take the heritage style in an edgy direction with a streamlined silhouette and bold details. Made with a sock-like upper, they feature an innovative wraparound tongue construction for a snug and comfortable fit.",
+    "price": 84.95,
+    "colors": [
+      "Mystery Ink",
+      "Clear Grey",
+      "Chalk White"
+    ],
+    "category": "Shoes",
+    "search_color": "Blue"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "CP9326",
+    "name": "Pureboost Shoes",
+    "model_number": "EFE68",
+    "description": "With a sock-like fit and energised cushioning, these shoes are ready for city running. The light and airy knit upper offers a natural feel against your foot, while a responsive midsole and flexible outsole deliver a smooth ride.",
+    "price": 119.95,
+    "colors": [
+      "Core Black",
+      "Dgh Solid Grey",
+      "Dgh Solid Grey"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "G28182",
+    "name": "Crazy BYW LVL x Pharrell Williams Shoes",
+    "model_number": "DRC01",
+    "description": "Worn by legendary B-ball players, this '90s-era design featured a look so unconventional that it was called Crazy. Its descendant, the Crazy BYW, combines retro style with innovative cushioning. This bold Pharrell Williams version has a flexible, adaptive adidas Primeknit upper. Boost midsole pods give a comfortable, responsive feel. Inside is a Pharrell signature sockliner inspired by the ancient art of reflexology.",
+    "price": 219.95,
+    "colors": [
+      "Core Black",
+      "Ftwr White",
+      "Solar Pink"
+    ],
+    "category": "Shoes",
+    "search_color": "Black"
+  },
+  {
+    "_class": "com.adidas.solrchallenge.domain.Product",
+    "id": "BB9543",
+    "name": "Pharrell Williams SOLARHU Tennis V2 Shoes",
+    "model_number": "BTH28",
+    "description": "Pharrell's journey across the globe continues with SOLARHU. Inspired by the raw spirit and style of East Africa, these shoes have a vivid adidas Primeknit textile upper with hits of bold colour. \n\nHu by Pharrell Williams\nPharrell's Hu collection celebrates the hues of humanity\n\nMinimalist knit\nadidas Primeknit upper wraps the foot in adaptive support and ultralight comfort\n\nSignature Pharrell sockliner \nGraphic inspired by the ancient art of reflexology",
+    "price": 109.95,
+    "colors": [
+      "Yellow",
+      "Ftwr White",
+      "Core Black"
+    ],
+    "category": "Shoes",
+    "search_color": "Yellow"
+  }
+]

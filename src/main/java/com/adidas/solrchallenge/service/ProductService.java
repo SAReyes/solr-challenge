@@ -6,5 +6,5 @@ import java.util.Optional;
 
 public interface ProductService {
 
-    Optional<Product> create(Product product);
+    Optional<Product> save(Product product);
 }
